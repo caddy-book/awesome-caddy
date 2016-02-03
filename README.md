@@ -39,8 +39,10 @@ you could [vote for them](https://github.com/caddy-book/awesome-caddy/pulls) by 
 - [Caddy Examples](https://github.com/caddyserver/examples)
 - [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy)
 - [Running Caddy as a Service with Systemd](https://denbeke.be/blog/servers/running-caddy-server-as-a-service-with-systemd/)
+- [Running Caddy as a Service with Upstart](https://denbeke.be/blog/servers/running-caddy-server-as-a-service/)
 - [Moving from Nginx to Caddy](https://gmnt.net/post/moving-from-nginx-to-caddy/)
 - [Moving to Caddy](https://abiosoft.com/moving-to-caddy/)
+- [Caddy Server and WordPress (PHP-FPM)](https://denbeke.be/blog/servers/caddy-server-and-wordpress-php-fpm/)
 
 ## Middlewares development
 
