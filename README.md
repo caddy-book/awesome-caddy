@@ -8,8 +8,10 @@ and [awesome-nginx](https://github.com/fcambus/nginx-resources).
 Your contributions are always welcome! Please take a look at [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 and [the awesome contributing guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) first.
 
-I would keep some pull requests open if I'm not sure whether the libraries are awesome,
-you could [vote for them](https://github.com/caddy-book/awesome-caddy/pulls) by leaving a comment that contains `+1`.
+If you think a link is obsolete, not awesome anymore, feel free to open a pull request.
+
+I would keep some pull requests open if I'm not sure whether link has to be included/deleted,
+you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by leaving a comment that contains `+1`.
 
 
 ## Table of Contents
