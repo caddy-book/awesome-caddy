@@ -58,6 +58,7 @@ you could [vote for them](https://github.com/caddy-book/awesome-caddy/pulls) by 
 
 ## Videos
 
+- [CoreOS with Caddy - Singapore PHP User Group](https://www.youtube.com/watch?v=eBmWadpWrTM)
 - [Caddy server Git add-on tutorial](https://www.youtube.com/watch?v=dmat1MUT0fc)
 - [Caddy Web Server, PHP 5.6 and Phalcon PHP 2.0.8](https://www.youtube.com/watch?v=CrN3jOqQbXo)
 
