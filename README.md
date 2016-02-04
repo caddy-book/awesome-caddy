@@ -22,6 +22,7 @@ you could [vote for them](https://github.com/caddy-book/awesome-caddy/pulls) by 
 - [API](#api)
 - [Hacks](#hacks)
 - [Tips](#tips)
+- [Containers](#containers)
 - [Videos](#videos)
 
 
@@ -55,6 +56,12 @@ you could [vote for them](https://github.com/caddy-book/awesome-caddy/pulls) by 
 
 
 ## Tips
+
+
+## Containers
+
+- [Official list](https://github.com/mholt/caddy#docker-container)
+- [Hugo Caddy Dockerfile](https://github.com/i-Sohel/hugo-caddy-dockerfile)
 
 
 ## Videos
