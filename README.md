@@ -51,6 +51,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 
 ## Tips
 
+- [Middleware mailout - receive email from POST form](https://github.com/SchumacherFM/mailout)
 - [Deploying Caddy](https://blog.captncraig.io/post/caddy/)
 - [Limit Requests on Caddy with Fail2ban](https://binaryfigments.com/news/limit-requests-on-caddy-with-fail2ban/)
 
