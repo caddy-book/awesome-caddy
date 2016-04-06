@@ -1,6 +1,6 @@
 # Caddy Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Caddy resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python)
+A curated list of awesome [Caddy](https://caddyserver.com/) resources. Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 and [awesome-nginx](https://github.com/fcambus/nginx-resources).
 
 ## Contributing
