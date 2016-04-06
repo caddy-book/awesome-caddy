@@ -28,13 +28,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Videos](#videos)
 
 
-## Understanding Caddy
-
-
-## Architecture
-
-
-## Configuration
+## Internals
 
 
 ## Tutorials
@@ -47,12 +41,6 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Moving from Nginx to Caddy](https://gmnt.net/post/moving-from-nginx-to-caddy/)
 - [Moving to Caddy](https://abiosoft.com/moving-to-caddy/)
 - [Caddy Server and WordPress (PHP-FPM)](https://denbeke.be/blog/servers/caddy-server-and-wordpress-php-fpm/)
-
-
-## Middlewares development
-
-
-## API
 
 
 ## Hacks
@@ -79,6 +67,11 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [CoreOS with Caddy - Singapore PHP User Group](https://www.youtube.com/watch?v=eBmWadpWrTM)
 - [Caddy server Git add-on tutorial](https://www.youtube.com/watch?v=dmat1MUT0fc)
 - [Caddy Web Server, PHP 5.6 and Phalcon PHP 2.0.8](https://www.youtube.com/watch?v=CrN3jOqQbXo)
+
+
+## Misc
+
+- [Caddy in production](https://denbeke.be/blog/servers/two-months-ago-i-started-to-serve-the-web-like-its-2016-and-im-still-loving-caddy-migrating-from-nginx-to-caddy-server/)
 
 
 ## License
