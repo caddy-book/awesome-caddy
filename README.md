@@ -70,6 +70,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 
 ## Misc
 
+- [Interview with M. Holt - Author of Caddy - Innovative Open Source Web Server](https://knowledgepower.com/pg/interview-matthew-holt-creator-caddy-innovative-open-source-web-server/)
 - [Caddy in production](https://denbeke.be/blog/servers/two-months-ago-i-started-to-serve-the-web-like-its-2016-and-im-still-loving-caddy-migrating-from-nginx-to-caddy-server/)
 
 
