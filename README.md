@@ -16,19 +16,12 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 
 ## Table of Contents
 
-- [Understanding Caddy](#understanding-caddy)
-- [Architecture](#architecture)
-- [Configuration](#configuration)
 - [Tutorials](#tutorials)
-- [Middlewares development](#middlewares development)
-- [API](#api)
 - [Hacks](#hacks)
 - [Tips](#tips)
 - [Containers](#containers)
-- [Videos](#videos)
-
-
-## Internals
+- [Videos and Talks](#videos and talks)
+- [Misc](#misc)
 
 
 ## Tutorials
@@ -63,7 +56,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Hugo Caddy Dockerfile](https://github.com/i-Sohel/hugo-caddy-dockerfile)
 
 
-## Videos
+## Videos and Talks
 
 - [Syscast Podcast - Matt Holt, creator of Caddy webserver](http://podcast.sysca.st/podcast/1-matt-holt-creator-caddy-webserver/)
 - [Provo Linux User Group - Matt Holt (Caddy creator)](https://www.youtube.com/watch?v=ZyVA9tuif4s)
