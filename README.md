@@ -27,6 +27,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 ## Tutorials
 
 - [Caddy Examples](https://github.com/caddyserver/examples)
+- [Running PHP with Caddy server on Mac OSX](https://simonecarletti.com/blog/2016/05/caddy-server-php-macosx/)
 - [How to Setup the Caddy Web Server with php-fpm](https://blog.jixee.me/how-to-setup-the-caddy-web-server-with-php-fpm/)
 - [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy)
 - [Running Caddy as a Service with Systemd](https://denbeke.be/blog/servers/running-caddy-server-as-a-service-with-systemd/)
