@@ -42,7 +42,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 ## Hacks
 
 - [Running Caddy on Android](https://github.com/mholt/caddy/wiki/Running-Caddy-on-Android)
-- [Hosting a webserver with Raspberry Pi](http://www.amaxwellblair.com/posts/how_to_host_using_RPi.md)
+- [Hosting a webserver with Raspberry Pi](https://web.archive.org/web/20160725100434/http://www.amaxwellblair.com/posts/how_to_host_using_RPi.md) (Wayback Machine)
 
 
 ## Tips
