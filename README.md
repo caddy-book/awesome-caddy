@@ -20,7 +20,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Hacks](#hacks)
 - [Tips](#tips)
 - [Containers](#containers)
-- [Videos and Talks](#videos and talks)
+- [Videos and Talks](#videos-and-talks)
 - [Misc](#misc)
 
 
