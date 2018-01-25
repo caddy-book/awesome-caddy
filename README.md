@@ -31,7 +31,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Using Cozy with Caddy](https://forum.cozy.io/t/using-cozy-with-caddy/2230)
 - [FreeBSD Init-Script for the Caddy Webserver](https://www.davd.eu/posts/caddy-freebsd-init-script/)
 - [How to Setup the Caddy Web Server with php-fpm](https://blog.jixee.me/how-to-setup-the-caddy-web-server-with-php-fpm/)
-- [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy)
+- [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy/)
 - [Running Caddy as a Service with Systemd](https://denbeke.be/blog/servers/running-caddy-server-as-a-service-with-systemd/)
 - [Running Caddy as a Service with Upstart](https://denbeke.be/blog/servers/running-caddy-server-as-a-service/)
 - [Moving from Nginx to Caddy](https://gmnt.net/post/moving-from-nginx-to-caddy/)
