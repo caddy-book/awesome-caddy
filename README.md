@@ -53,7 +53,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 
 ## Containers
 
-- [Official list](https://github.com/mholt/caddy#docker-container)
+- [Official list](https://github.com/mholt/caddy/wiki/Docker-Containers)
 - [Hugo Caddy Dockerfile](https://github.com/i-Sohel/hugo-caddy-dockerfile)
 
 
