@@ -20,7 +20,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Hacks](#hacks)
 - [Tips](#tips)
 - [Containers](#containers)
-- [Videos and Talks](#videos and talks)
+- [Videos and Talks](#videos-and-talks)
 - [Misc](#misc)
 
 
@@ -31,7 +31,7 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 - [Using Cozy with Caddy](https://forum.cozy.io/t/using-cozy-with-caddy/2230)
 - [FreeBSD Init-Script for the Caddy Webserver](https://www.davd.eu/posts/caddy-freebsd-init-script/)
 - [How to Setup the Caddy Web Server with php-fpm](https://blog.jixee.me/how-to-setup-the-caddy-web-server-with-php-fpm/)
-- [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy)
+- [Automating Hugo Publishing with Caddy(FR)](https://blog.zenithar.org/post/2016/01/06/automatisation-publication-hugo-avec-caddy/)
 - [Running Caddy as a Service with Systemd](https://denbeke.be/blog/servers/running-caddy-server-as-a-service-with-systemd/)
 - [Running Caddy as a Service with Upstart](https://denbeke.be/blog/servers/running-caddy-server-as-a-service/)
 - [Moving from Nginx to Caddy](https://gmnt.net/post/moving-from-nginx-to-caddy/)
@@ -42,20 +42,18 @@ you could [vote for it](https://github.com/caddy-book/awesome-caddy/pulls) by le
 ## Hacks
 
 - [Running Caddy on Android](https://github.com/mholt/caddy/wiki/Running-Caddy-on-Android)
-- [Hosting a webserver with Raspberry Pi](http://www.amaxwellblair.com/posts/how_to_host_using_RPi.md)
+- [Hosting a webserver with Raspberry Pi](https://web.archive.org/web/20160725100434/http://www.amaxwellblair.com/posts/how_to_host_using_RPi.md) (Wayback Machine)
 
 
 ## Tips
 
 - [Middleware mailout - receive email from POST form](https://github.com/SchumacherFM/mailout)
-- [Deploying Caddy](https://blog.captncraig.io/post/caddy/)
-- [Limit Requests on Caddy with Fail2ban](https://binaryfigments.com/news/limit-requests-on-caddy-with-fail2ban/)
-- [Using Caddy with Docker](https://blog.zzrot.com/caddy-with-docker/)
+- [Deploying Caddy](https://github.com/captncraig/someboringwebsite/blob/master/content/post/caddy.md)
 
 
 ## Containers
 
-- [Official list](https://github.com/mholt/caddy#docker-container)
+- [Official list](https://github.com/mholt/caddy/wiki/Docker-Containers)
 - [Hugo Caddy Dockerfile](https://github.com/i-Sohel/hugo-caddy-dockerfile)
 
 
